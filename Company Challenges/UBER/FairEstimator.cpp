@@ -10,6 +10,6 @@ std::vector<double> fareEstimator(int ride_time, int ride_distance, std::vector<
         
         res.push_back(res1);
     }
-      
+        
     return res;  
 }
